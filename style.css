@@ -1,0 +1,44 @@
+
+header {
+  text-align: center;
+  height: 100px;
+  background-color: #B3B6B7;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  margin: 0px;
+  background-color: #B3B6B7;
+}
+
+header h1 {
+  margin: 1em;
+  font-size: 50px;
+}
+
+main {
+  background-color: #B3B6B7;
+  text-align: center;
+
+}
+
+.bio {
+  width: 750px;
+  margin: 0 auto;
+}
+.logo-margin {
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 3em;
+}
+
+footer {
+  height: 100px;
+  background-color: #B3B6B7;
+  text-align: center;
+  padding-top: 7em;
+}
